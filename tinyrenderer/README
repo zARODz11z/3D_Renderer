@@ -1,1 +1,7 @@
 https://github.com/ssloy/tinyrenderer/wikihttps://github.com/ssloy/tinyrenderer/wiki
+
+Steps to run main program:
+
+1: `make`
+2: `./main`
+3: `gimp ./output.tga`  (or you can use photoshop)
